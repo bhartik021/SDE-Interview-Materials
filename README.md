@@ -23,6 +23,3 @@ Contributions to this repository are welcome! If you have notes, sheets, or ques
 
 ## License
 This repository is licensed under the MIT License. Please see the `LICENSE` file for more information.
-
-## Acknowledgments
-The materials in this repository were created by Bharti Kumari.
